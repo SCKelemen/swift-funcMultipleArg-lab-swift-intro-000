@@ -5,7 +5,7 @@
 
 ## Overview
 
-In this lab, we'll create and call funciton that contain multiple arguments. 
+In this lab, we'll create and call functions that contain multiple arguments. 
 
 ## Instructions
 
